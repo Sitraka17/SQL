@@ -15,3 +15,8 @@ ADD CONSTRAINT university_shortname_unq UNIQUE(university_shortname);
 -- Make organizations.organization unique
 ALTER TABLE organizations
 ADD CONSTRAINT organization_unq UNIQUE(organization);
+
+-------------------------------------------------------------------------------------
+-- Count the number of distinct values in the university_city column
+SELECT COUNT(DISTINCT(university_city)) 
+FROM universities;
