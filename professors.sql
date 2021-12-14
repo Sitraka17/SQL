@@ -20,3 +20,9 @@ ADD CONSTRAINT organization_unq UNIQUE(organization);
 -- Count the number of distinct values in the university_city column
 SELECT COUNT(DISTINCT(university_city)) 
 FROM universities;
+
+
+-- Try out different combinations
+SELECT COUNT(DISTINCT(firstname,lastname)) --COUNT(DISTINCT(lastname))
+FROM professors;
+-- Indeed, the only combination that uniquely identifies professors is {firstname, lastname}. {firstname, lastname, university_shortname} is a superkey, and all other combinations give duplicate values. Hopefully, the concept of superkeys and keys is now a bit more clear. Let's move on to primary keys!
