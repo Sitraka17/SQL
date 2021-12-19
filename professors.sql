@@ -26,3 +26,12 @@ FROM universities;
 SELECT COUNT(DISTINCT(firstname,lastname)) --COUNT(DISTINCT(lastname))
 FROM professors;
 -- Indeed, the only combination that uniquely identifies professors is {firstname, lastname}. {firstname, lastname, university_shortname} is a superkey, and all other combinations give duplicate values. Hopefully, the concept of superkeys and keys is now a bit more clear. Let's move on to primary keys!
+
+
+-- Rename the organization column to id
+ALTER TABLE organizations
+ADD CONSTRAINT organization TO id;
+
+-- Make id a primary key
+ALTER TABLE organizations
+ADD CONSTRAINT organization_pk  PRIMARY KEY (id);
