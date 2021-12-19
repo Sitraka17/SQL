@@ -30,7 +30,7 @@ FROM professors;
 
 -- Rename the organization column to id
 ALTER TABLE organizations
-ADD CONSTRAINT organization TO id;
+RENAME column organization TO id;
 
 -- Make id a primary key
 ALTER TABLE organizations
