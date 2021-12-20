@@ -44,4 +44,7 @@ RENAME COLUMN university_shortname TO id  ;
 ALTER TABLE universities
 ADD CONSTRAINT university_pk PRIMARY KEY (id);
 
+-- Add the new column to the table
+ALTER TABLE professors 
+ADD COLUMN id serial;
 
