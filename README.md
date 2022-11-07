@@ -13,11 +13,7 @@ SQL is a domain-specific language used in programming and designed for managing 
 - [x] CREATE
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
 
 # November
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
