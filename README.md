@@ -10,9 +10,10 @@ SQL is a domain-specific language used in programming and designed for managing 
 ### SQL Exploration
 
 - [ ] Make a Vidéo  
-- [x] CREATE
-- [x] Earth (Orbit/Moon)
-- [x] Mars
+- [x] Create
+- [x] Read
+- [x] Update
+- [x] Delete
 
 
 # November
