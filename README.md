@@ -16,7 +16,7 @@ SQL is a domain-specific language used in programming and designed for managing 
 - [x] Delete
 
 
-# November
+# Any Month
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |30|1|2|3|4|5|6|
