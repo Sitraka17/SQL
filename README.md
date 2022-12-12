@@ -17,7 +17,7 @@ SQL is a domain-specific language used in programming and designed for managing 
 
 
 
-SQL terminology In SQL, which stands for Structured Query Language , data is arranged in tables where each row is a record and each column is a field. SQL is used to query relational databases that contain a collection of tables. It is not used to visualize data. A query is a request for data from a database table, or combination of tables. A query uses keywords , such as SELECT and FROM . Since SQL is not case sensitive, it does not differentiate between SELECT and select . However, it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table names. Every SQL query should end with a semi-colon ; , which tells SQL to terminate the query.
+SQL terminology In SQL, which stands for *S*tructured *Q*uery *L*anguage , data is arranged in tables where each row is a record and each column is a field. SQL is used to query relational databases that contain a collection of tables. It is not used to visualize data. A query is a request for data from a database table, or combination of tables. A query uses keywords , such as SELECT and FROM . Since SQL is not case sensitive, it does not differentiate between SELECT and select . However, it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table names. Every SQL query should end with a semi-colon ; , which tells SQL to terminate the query.
 
 
 
