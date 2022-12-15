@@ -33,6 +33,6 @@ The **GROUP BY** keyword allows you to group a result by one or more columns.
 |28|29|30|31| | | |
 
 # Bibliography 
-DataCamp
-Kaggle 
-Maevan
+> DataCamp
+> Kaggle 
+> Maevan
