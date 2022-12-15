@@ -22,6 +22,7 @@ However, it is good practice to make SQL keywords uppercase to distinguish them 
 
 The **GROUP BY** keyword allows you to group a result by one or more columns.
 
+The **ORDER BY** keyword sorts results according to the specified column or columns. **NULL** values will appear first in the result.
 
 # Any Month
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
