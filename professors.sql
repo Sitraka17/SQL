@@ -90,3 +90,19 @@ WHERE constraint_type = 'FOREIGN KEY';
 -- Drop the right foreign key constraint
 ALTER TABLE affiliations
 DROP CONSTRAINT affiliations_organization_id_fkey;
+
+
+----------------------------------------------------------------------------------------------------------
+
+-- Group the table by organization sector, professor ID and university city
+SELECT COUNT(*), organizations.organization_sector, 
+professors.id, universities.university_city
+FROM affiliations
+JOIN professors
+ON affiliations.professor_id = professors.id
+JOIN organizations
+ON affiliations.organization_id = organizations.id
+JOIN universities
+ON professors.university_id = universities.id
+GROUP BY organizations.organization_sector, 
+professors.id,universities.university_city
