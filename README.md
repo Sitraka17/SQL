@@ -39,7 +39,8 @@ Beginner
 Mid
 - Understand how to use a **CASE** statement inside of a SUM or COUNT function;
 - Know at least 1-2 ways you could optimize a query and if you decide one of those answers will be put an index on the table..you should also know what the pros and cons of an index are
-- Be able to implement both a subquery and CTE, but use a CTE if you want to prove that you have good SQL habits
+- Be able to implement both a subquery and CTE, but use a CTE if you want to prove that you have good SQL habits.
+    also yeah you need to know that a CTE is a common table expression; 
 
 Advanced
 - Know how to answer a problem with and without a window function. Usually you will need to implement a *self join* in order to imitate some window functions such as LAG and LEAD.
