@@ -34,7 +34,7 @@ Here are some quick tips from beginner to advanced you should know and be able t
 Beginner 
 - Be able to explain the different types of joins. The famous 2 then 3 circle grqph cqn help you
 - Know when HAVING is run in SQL's order of operations vs WHERE
-- Know the difference between UNION and **UNION ALL** (link)[]
+- Know the difference between UNION and **UNION ALL** (link)[httpsjsp]
 
 Mid
 - Understand how to use a CASE statement inside of a SUM or COUNT function
