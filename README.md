@@ -45,12 +45,6 @@ Advanced
 - Understand and be able to explain what a correlated subquery is
 - Just reference that you would look at the query execution plan. They will be shocked you even know what that is.
 
-I would love to hear what questions you were asked your SQL interviews. Please share them below!""
-
-
-
-
-
 
 # Any Month
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
