@@ -32,7 +32,7 @@ SQL is life ❤️
 Here are some quick tips from beginner to advanced you should know and be able to talk about in a SQL interview.
 
 Beginner 
-- Be able to explain the different types of joins. I have sometimes seen this question asked by recruiters as a screener question just to make sure they want to pass you along
+- Be able to explain the different types of joins. The famous 2 then 3 circle grqph cqn help you
 - Know when HAVING is run in SQL's order of operations vs WHERE
 - Know the difference between UNION and UNION ALL
 
