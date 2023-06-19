@@ -60,5 +60,5 @@ Advanced
 # Bibliography 
 - [DataCamp](https://app.datacamp.com/learn)
 
-> (Kaggle)[https://www.kaggle.com/learn]
+> [Kaggle](https://www.kaggle.com/learn)
 > Maevan
