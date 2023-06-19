@@ -58,7 +58,7 @@ Advanced
 |28|29|30|31| | | |
 
 # Bibliography 
-> [DataCamp](https://app.datacamp.com/learn)
+- [DataCamp](https://app.datacamp.com/learn)
 
 > (Kaggle)[https://www.kaggle.com/learn]
 > Maevan
