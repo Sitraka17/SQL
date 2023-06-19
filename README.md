@@ -26,7 +26,8 @@ The **ORDER BY** keyword sorts results according to the specified column or colu
 
 
 
-""SQL is everywhere.
+""SQL is everywhere."" 
+SQL is life ❤️ 
 
 Here are some quick tips from beginner to advanced you should know and be able to talk about in a SQL interview.
 
