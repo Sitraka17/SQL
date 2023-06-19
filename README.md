@@ -42,7 +42,7 @@ Mid
 - Be able to implement both a subquery and CTE, but use a CTE if you want to prove that you have good SQL habits
 
 Advanced
-- Know how to answer a problem with and without a window function. Usually you will need to implement a self join in order to imitate some window functions such as LAG and LEAD.
+- Know how to answer a problem with and without a window function. Usually you will need to implement a *self join* in order to imitate some window functions such as LAG and LEAD.
 - Understand and be able to explain what a correlated subquery is
 - Just reference that you would look at the query execution plan. They will be shocked you even know what that is.
 
