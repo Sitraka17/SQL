@@ -43,7 +43,7 @@ Mid
 
 Advanced
 - Know how to answer a problem with and without a window function. Usually you will need to implement a *self join* in order to imitate some window functions such as LAG and LEAD.
-- Understand and be able to explain what a correlated subquery is
+- Understand and be able to explain what a **correlated subquery** is
 - Just reference that you would look at the query execution plan. They will be shocked you even know what that is.
 
 
