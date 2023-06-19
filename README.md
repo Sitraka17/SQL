@@ -37,7 +37,7 @@ Beginner
 - Know the difference between UNION and **UNION ALL** (link)[httpsjsp]
 
 Mid
-- Understand how to use a CASE statement inside of a SUM or COUNT function
+- Understand how to use a **CASE** statement inside of a SUM or COUNT function;
 - Know at least 1-2 ways you could optimize a query and if you decide one of those answers will be put an index on the table..you should also know what the pros and cons of an index are
 - Be able to implement both a subquery and CTE, but use a CTE if you want to prove that you have good SQL habits
 
