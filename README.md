@@ -44,7 +44,7 @@ Mid
 Advanced
 - Know how to answer a problem with and without a window function. Usually you will need to implement a *self join* in order to imitate some window functions such as LAG and LEAD.
 - Understand and be able to explain what a **correlated subquery** is
-- Just reference that you would look at the *query execution plan*. They will be shocked you even know what that is.
+- Just reference that you would look at the *query execution plan*. They will be shocked you even know what that is. (A query execution plan is the definition of: The sequence in which the source tables are accessed. The methods used to extract data from each table. Generally, there are different methods for accessing the data in each table.)
 
 
 # Any Month
