@@ -24,6 +24,34 @@ The **GROUP BY** keyword allows you to group a result by one or more columns.
 
 The **ORDER BY** keyword sorts results according to the specified column or columns. **NULL** values will appear first in the result.
 
+
+
+""SQL is everywhere.
+
+Here are some quick tips from beginner to advanced you should know and be able to talk about in a SQL interview.
+
+Beginner 
+- Be able to explain the different types of joins. I have sometimes seen this question asked by recruiters as a screener question just to make sure they want to pass you along
+- Know when HAVING is run in SQL's order of operations vs WHERE
+- Know the difference between UNION and UNION ALL
+
+Mid
+- Understand how to use a CASE statement inside of a SUM or COUNT function
+- Know at least 1-2 ways you could optimize a query and if you decide one of those answers will be put an index on the table..you should also know what the pros and cons of an index are
+- Be able to implement both a subquery and CTE, but use a CTE if you want to prove that you have good SQL habits
+
+Advanced
+- Know how to answer a problem with and without a window function. Usually you will need to implement a self join in order to imitate some window functions such as LAG and LEAD.
+- Understand and be able to explain what a correlated subquery is
+- Just reference that you would look at the query execution plan. They will be shocked you even know what that is.
+
+I would love to hear what questions you were asked your SQL interviews. Please share them below!""
+
+
+
+
+
+
 # Any Month
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
