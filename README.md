@@ -50,4 +50,3 @@ Advanced
 - [Kaggle](https://www.kaggle.com/learn)
 
 - [Maevan](sitraka.fr)
-
